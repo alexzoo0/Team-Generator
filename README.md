@@ -15,6 +15,8 @@
   first git clone the project into your local computer then nopm install to install all dpendencies needed.
   ## Usage
   once everything is installed, in the command line tyoe npm start and create a readme
+  
+  video here: https://www.youtube.com/watch?v=hpFvq9oj7Kg
   ## Features:
   create cards for employees 
   ## contributoors:
