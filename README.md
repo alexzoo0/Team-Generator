@@ -20,8 +20,9 @@
   ## contributoors:
   none 
   ## Test:
+  Testing with jest
   - Run the following commands in your terminal to test this project.
-  jest
+   npm run test 
   ## credits:
   alexzoo0
   ## Questions:
